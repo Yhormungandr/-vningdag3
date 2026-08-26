@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GissaTalet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef35602f0a7b7544784b430c0aff2cebb1aa5244")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15738f57ee6e4b60534fddbdabf6023d34f3e83c")]
 [assembly: System.Reflection.AssemblyProductAttribute("GissaTalet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GissaTalet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
