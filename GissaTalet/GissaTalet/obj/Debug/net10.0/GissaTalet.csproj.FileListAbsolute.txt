@@ -1,0 +1,15 @@
+C:\Users\makir\source\repos\-vningdag3\GissaTalet\GissaTalet\bin\Debug\net10.0\GissaTalet.exe
+C:\Users\makir\source\repos\-vningdag3\GissaTalet\GissaTalet\bin\Debug\net10.0\GissaTalet.deps.json
+C:\Users\makir\source\repos\-vningdag3\GissaTalet\GissaTalet\bin\Debug\net10.0\GissaTalet.runtimeconfig.json
+C:\Users\makir\source\repos\-vningdag3\GissaTalet\GissaTalet\bin\Debug\net10.0\GissaTalet.dll
+C:\Users\makir\source\repos\-vningdag3\GissaTalet\GissaTalet\bin\Debug\net10.0\GissaTalet.pdb
+C:\Users\makir\source\repos\-vningdag3\GissaTalet\GissaTalet\obj\Debug\net10.0\GissaTalet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makir\source\repos\-vningdag3\GissaTalet\GissaTalet\obj\Debug\net10.0\GissaTalet.AssemblyInfoInputs.cache
+C:\Users\makir\source\repos\-vningdag3\GissaTalet\GissaTalet\obj\Debug\net10.0\GissaTalet.AssemblyInfo.cs
+C:\Users\makir\source\repos\-vningdag3\GissaTalet\GissaTalet\obj\Debug\net10.0\GissaTalet.csproj.CoreCompileInputs.cache
+C:\Users\makir\source\repos\-vningdag3\GissaTalet\GissaTalet\obj\Debug\net10.0\GissaTalet.sourcelink.json
+C:\Users\makir\source\repos\-vningdag3\GissaTalet\GissaTalet\obj\Debug\net10.0\GissaTalet.dll
+C:\Users\makir\source\repos\-vningdag3\GissaTalet\GissaTalet\obj\Debug\net10.0\refint\GissaTalet.dll
+C:\Users\makir\source\repos\-vningdag3\GissaTalet\GissaTalet\obj\Debug\net10.0\GissaTalet.pdb
+C:\Users\makir\source\repos\-vningdag3\GissaTalet\GissaTalet\obj\Debug\net10.0\GissaTalet.genruntimeconfig.cache
+C:\Users\makir\source\repos\-vningdag3\GissaTalet\GissaTalet\obj\Debug\net10.0\ref\GissaTalet.dll
